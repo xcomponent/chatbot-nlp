@@ -1,0 +1,565 @@
+J'ai besoin d'annuler mon ticket###cancel_ticket
+je dois annuler mon billet###cancel_ticket
+hey###greeting
+hé###greeting
+je vais le faire maintenant###i_do_it_now
+je vais le faire###i_do_it_now
+je vais le faire maintenant###i_do_it_now
+Je souhaitereais annuler un ticket incident###cancel_ticket
+je veux annuler un ticket d'incident###cancel_ticket
+je souhaite annuler un ticket d'incident###cancel_ticket
+Vous allez bien ?###how_are_you
+comment est votre état de santé?###how_are_you
+Comment va###how_are_you
+comment allez vous?###how_are_you
+comment vas-tu?###how_are_you
+Je souhaiterais avoir mon identifiant client###get_id_client
+je veux mon identifiant client###get_id_client
+je souhaite avoir mon identifiant client###get_id_client
+je voudrais mon identifiant client###get_id_client
+je voudrais avoir mon identifiant client###get_id_client
+coucou###greeting
+bonjour###greeting
+je le remplis maintenant###i_do_it_now
+je le remplis maintenant###i_do_it_now
+Peux tu m'envoyer mon identifiant client ?###get_id_client
+pouvez-vous m'envoyer mon identifiant client?###get_id_client
+pouvez-vous m'envoyer un identifiant client ?###get_id_client
+pouvez-vous m'envoyer l'identifiant client?###get_id_client
+Peux-tu annuler mon ticket ?###cancel_ticket
+puis-je annuler ma réservation ?###cancel_ticket
+pouvez-vous annuler mon vol ?###cancel_ticket
+pouvez-vous annuler un billet?###cancel_ticket
+puis-je annuler un vol?###cancel_ticket
+je le fais toute de suite###i_do_it_now
+je le fais tout de suite###i_do_it_now
+re bonjour###greeting
+rebonjour###greeting
+Envoie-moi mon identifiant client###get_id_client
+envoyez-moi l'identifiant client###get_id_client
+envoyez moi mon identifiant client###get_id_client
+resalut###greeting
+salut###greeting
+où habites-tu###where_do_you_live
+Il y a un bug sur l'appli###problem_access_application
+Je souhaiterais récupérer la liste des incidents###listing_incidents
+je voudrais récupérer la liste des incidents###listing_incidents
+je voudrais avoir la liste des incidents###listing_incidents
+pas maintenant, je suis occupé###i_am_busy
+pas maintenant je suis occupé###i_am_busy
+je suis énervé###i_am_angry
+je ne suis pas heureux###i_am_angry
+je suis énervé###i_am_angry
+Donne moi les informations de la sortie###get_info_activity
+Pas de temps###i_am_busy
+Puis-je changer le statut du ticket à ?###update_ticket
+comment changer le statut d'un ticket ?###update_ticket
+comment changer le statut du ticket ?###update_ticket
+comment changer le statut des tickets ?###update_ticket
+puis-je changer le statut du ticket ?###update_ticket
+est-il possible de changer le statut d'un ticket ?###update_ticket
+puis-je changer le statut du ticket ?###update_ticket
+Je veux avoir les détails d'un ticket###get_info_incident
+je veux les détails du billet###get_info_incident
+je veux connaître les détails du billet###get_info_incident
+je voudrais avoir les détails du billet###get_info_incident
+j'aimerais avoir les détails d'un billet###get_info_incident
+je voudrais les détails d'un billet###get_info_incident
+je veux les détails d'un billet###get_info_incident
+je veux connaître les détails d'un billet###get_info_incident
+dans quel pays tu vis###where_do_you_live
+dans quel pays vis-tu?###where_do_you_live
+J'ai besoin de la liste des incidents ouverts###listing_incidents
+j'ai besoin de la liste des incidents ouverts###listing_incidents
+je suis trop épuisée###i_am_tired
+je suis trop épuisé###i_am_tired
+je suis épuisé###i_am_tired
+je suis trop fatigué###i_am_tired
+Ajoute un commentaire à l'incident###anotate_ticket
+ajouter un commentaire à l'incident###anotate_ticket
+Je souhaiterais avoir le lien du dashboard###get_link_dashboard
+je voudrais avoir le lien vers le tableau de bord###get_link_dashboard
+d'où est-ce que tu viens###where_are_your_from
+d'où viens-tu?###where_are_your_from
+Je suis pris toute la journée###i_am_busy
+je suis pris toute la journée###i_am_busy
+Lien du dashboard###get_link_dashboard
+lien vers le tableau de bord###get_link_dashboard
+fâché###i_am_angry
+fâché###i_am_angry
+es-tu réelle###are_you_real
+es-tu réel?###are_you_real
+fâchées###i_am_angry
+fâché###i_am_angry
+Je ne peux pas ouvrir###problem_access_application
+je ne peux pas ouvrir ça###problem_access_application
+je ne peux pas ouvrir###problem_access_application
+je ne peux pas l'ouvrir###problem_access_application
+J'ai complété###it_is_done
+j'ai fini cette phrase###it_is_done
+je l'ai fini###it_is_done
+Ferme le ticket incident###close_ticket
+fermer le ticket d'incident###close_ticket
+je suis énervée###i_am_angry
+je suis frustre###i_am_angry
+je suis en colère###i_am_angry
+je suis faché###i_am_angry
+je suis furieux###i_am_angry
+je suis furieux###i_am_angry
+je suis en colère###i_am_angry
+Donne moi mon solde de congés###get_leave_balance
+donnez-moi la paye de vacances###get_leave_balance
+Mon solde de congés###get_leave_balance
+mon solde de congés###get_leave_balance
+La liste des incidents ouverts###listing_incidents
+la liste des incidents ouverts###listing_incidents
+tu as l'air tellement vraisemblable###are_you_real
+tu as l'air crédible###are_you_real
+tu as l'air si réel###are_you_real
+je suis fatiguée###i_am_tired
+je suis fatigué###i_am_tired
+Je n'ai pas de temps pour ce faire###i_am_busy
+je n'ai pas le temps de faire ça###i_am_busy
+je n'ai pas le temps de le faire###i_am_busy
+es-tu un agent conversationnel###are_you_real
+es-tu un chatbot ?###are_you_real
+J'ai un problème avec###problem_access_application
+j'ai un problème avec ça###problem_access_application
+j'ai un problème###problem_access_application
+j'ai un problème avec ce truc###problem_access_application
+tu es un bot###are_you_real
+moui###yes
+Je veux ajouter un commentaire à l'incident###anotate_ticket
+je voudrais ajouter un commentaire à l'incident###anotate_ticket
+je veux ajouter un commentaire sur l'incident###anotate_ticket
+je veux ajouter un commentaire à l'incident###anotate_ticket
+Je n'arrive pas à me connecter à l'application###problem_access_application
+je ne peux pas me connecter à l'application###problem_access_application
+C'est quand la sortie ?###get_info_activity
+quand aura lieu la sortie ?###get_info_activity
+c'est quand la date de sortie ?###get_info_activity
+peux-tu me répondre###i_have_a_question
+peux-tu me répondre?###i_have_a_question
+es-tu un robot###are_you_real
+etes-vous un robot?###are_you_real
+je suis super fâché###i_am_angry
+je suis tellement fâché###i_am_angry
+je suis super en colère###i_am_angry
+je suis incroyablement en colère###i_am_angry
+je suis vraiment en colère###i_am_angry
+j'en suis vraiment fou###i_am_angry
+je suis terriblement en colère###i_am_angry
+je suis très en colère###i_am_angry
+je l'ai fait###it_is_done
+je l'ai fait###it_is_done
+L'application ne marche pas###problem_access_application
+est-ce que tu vis en france###where_do_you_live
+Envoie-moi mon solde de congés###get_leave_balance
+envoie moi le solde de mes vacances###get_leave_balance
+Puis-je fermer le ticket ?###close_ticket
+puis-je fermer le ticket?###close_ticket
+pouvez-vous fermer le ticket ?###close_ticket
+c'est quoi ton pays d'origine###where_are_your_from
+dis-moi ton pays d'origine?###where_are_your_from
+dites-moi le pays d'origine?###where_are_your_from
+de quel pays êtes vous?###where_are_your_from
+Je suis occupée###i_am_busy
+je suis occupé par ma vie###i_am_busy
+je suis occupé###i_am_busy
+Détails du ticket###get_info_incident
+détails du billet###get_info_incident
+je m'ennuie trop sans toi###say_i_miss_you
+je m'ennuie trop sans toi###say_i_miss_you
+je m'ennuie sans toi###say_i_miss_you
+ça m'énerve###i_am_angry
+c'est ça qui me dérange###i_am_angry
+ça me dérange###i_am_angry
+La sortie est prévue quand ?###get_info_activity
+quand est prévue la sortie ?###get_info_activity
+quand la sortie est-elle prévue ?###get_info_activity
+c'est quand la date de sortie ?###get_info_activity
+fâchés###i_am_angry
+fâché###i_am_angry
+tu es réel ou non###are_you_real
+es-tu réel ou pas ?###are_you_real
+Peux-tu me fournir la liste de mes tickets ?###listing_incidents
+pouvez-vous me fournir une liste de mes billets?###listing_incidents
+pouvez-vous me donner une liste de mes billets?###listing_incidents
+pouvez-vous me fournir une liste des billets?###listing_incidents
+pouvez-vous me donner la liste des billets?###listing_incidents
+pouvez-vous lister mes billets?###listing_incidents
+pouvez-vous me donner la liste de mes billets?###listing_incidents
+quel est ton pays d'origine###where_are_your_from
+quel est votre pays d'origine?###where_are_your_from
+c'est quoi ta terre ?###where_are_your_from
+dis-moi de quel pays tu viens###where_are_your_from
+tu habites dans quel pays###where_do_you_live
+tu vis dans quel pays?###where_do_you_live
+tu vis dans quel pays###where_do_you_live
+ou tu habites###where_do_you_live
+tu es un chatbot###are_you_real
+je suis fatigué###i_am_tired
+je suis fatigué###i_am_tired
+Donne-moi les détails du ticket###get_info_incident
+donnez-moi les détails du billet###get_info_incident
+ça me rend furieux###i_am_angry
+je suis furieux à ce sujet###i_am_angry
+cela me rend furieux###i_am_angry
+cela m'a rendu furieux###i_am_angry
+ça me met en colère###i_am_angry
+Envoie-moi les détails de l'incident###get_info_incident
+s'il vous plaît envoyez-moi les détails de l'incident###get_info_incident
+s'il vous plaît envoyez-moi des informations sur cet incident###get_info_incident
+pouvez-vous me dire les détails de l'incident?###get_info_incident
+envoyez-moi les détails de l'incident###get_info_incident
+veuillez montrer les détails de l'incident###get_info_incident
+donnez-moi les détails de l'incident###get_info_incident
+je suis trop fâché###i_am_angry
+je suis trop en colère###i_am_angry
+je suis vraiment fatiguée###i_am_tired
+je suis vraiment fatigué###i_am_tired
+je suis assez fatigué###i_am_tired
+je suis fatigué###i_am_tired
+Peux tu me donner mon solde de congés###get_leave_balance
+pouvez-vous me donner ma paie de vacances?###get_leave_balance
+pouvez-vous me donner mon pécule de vacances?###get_leave_balance
+affirmatif###yes
+es-tu une personne réelle###are_you_real
+es-tu une personne réelle?###are_you_real
+tu es un robot###are_you_real
+tu vis où###where_do_you_live
+il me faut une réponse###i_have_a_question
+j'ai besoin d'une réponse###i_have_a_question
+Je souhaite fermer le ticket###close_ticket
+je veux fermer le ticket###close_ticket
+Puis-je avoir mon dashboard ?###get_link_dashboard
+puis-je avoir mon tableau de bord?###get_link_dashboard
+puis-je avoir mon tableau de bord ?###get_link_dashboard
+Modifie le statut du ticket en###update_ticket
+change le statut du ticket en###update_ticket
+modifie le statut d'un ticket###update_ticket
+change le statut du ticket###update_ticket
+Combien de jours d'absence me reste-t-il ?###get_leave_balance
+combien de jours de repos ai-je encore ?###get_leave_balance
+combien de jours de repos me reste-t-il ?###get_leave_balance
+mouais###yes
+ouais###yes
+voui###yes
+J'aimerais modifier le statut de en###update_ticket
+je voudrais changer le statut de à###update_ticket
+Je souhaiterais ajouter une pièce jointe dans un ticket###anotate_ticket
+je voudrais ajouter un ticket-pièce jointe###anotate_ticket
+je souhaite ajouter une pièce jointe à un ticket###anotate_ticket
+Puis-je avoir des informations sur un incident ?###get_info_incident
+puis-je avoir des informations sur un incident?###get_info_incident
+je n'ai pas de temps maintenant###i_am_busy
+maintenant je n'ai plus le temps###i_am_busy
+je n'ai pas le temps###i_am_busy
+J'ai besoin des informations sur un ticket###get_info_incident
+j'ai besoin d'informations sur les billets###get_info_incident
+j'ai besoin d'informations sur le billet###get_info_incident
+donne une réponse###i_have_a_question
+donnez une réponse###i_have_a_question
+me donner une réponse###i_have_a_question
+donner une réponse###i_have_a_question
+Quelles sont les informations du ticket ?###get_info_incident
+dites-moi les détails des billets?###get_info_incident
+qu'est-ce que les informations sur les billets ?###get_info_incident
+dites-moi les informations pour un billet?###get_info_incident
+Je n'ai pas beaucoup de temps aujourd'hui###i_am_busy
+je n'ai pas beaucoup de temps aujourd'hui###i_am_busy
+tu habites dans quelle ville###where_do_you_live
+dans quelle ville habitez-vous?###where_do_you_live
+Je veux ajouter une pièce jointe à l'incident###anotate_ticket
+je voudrais ajouter une pièce jointe à l'incident###anotate_ticket
+je veux joindre une pièce jointe à l'incident###anotate_ticket
+je veux ajouter une pièce jointe à l'incident###anotate_ticket
+es-tu un chat bot###are_you_real
+êtes-vous un bot de discussion ?###are_you_real
+es-tu un chatbot ?###are_you_real
+réponds-moi###i_have_a_question
+s'il vous plait répondez moi###i_have_a_question
+me donner une réponse###i_have_a_question
+salut je veux savoir si tu peux me répondre###i_have_a_question
+J'ai fait###it_is_done
+je l'ai fait###it_is_done
+ouii###yes
+Je veux avoir le lien du dashboard###get_link_dashboard
+je veux avoir le lien du tableau de bord###get_link_dashboard
+je veux le lien du tableau de bord###get_link_dashboard
+je voudrais avoir le lien du tableau de bord###get_link_dashboard
+je veux avoir un lien vers le tableau de bord###get_link_dashboard
+je veux un lien vers le tableau de bord###get_link_dashboard
+je voudrais un lien vers le tableau de bord###get_link_dashboard
+je veux avoir le lien vers le tableau de bord###get_link_dashboard
+Peux-tu fermer le ticket incident ?###close_ticket
+peut-on clôturer un ticket d'incident ?###close_ticket
+est-il possible de clôturer un ticket d'incident ?###close_ticket
+pouvez-vous fermer le ticket en cas d'incident?###close_ticket
+pouvez-vous fermer le ticket ?###close_ticket
+je suis trop fatigué###i_am_tired
+je suis trop fatigué###i_am_tired
+peux-tu me donner une réponse###i_have_a_question
+peux-tu me répondre?###i_have_a_question
+pouvez-vous me donner la réponse?###i_have_a_question
+pouvez-vous me donner une réponse?###i_have_a_question
+est-ce que tu habites en france###where_do_you_live
+habitez-vous en france?###where_do_you_live
+J'ai besoin de fermer le ticket incident###close_ticket
+je dois fermer le ticket d'incident###close_ticket
+je dois fermer le ticket###close_ticket
+Envoie-moi la liste des incidents###listing_incidents
+envoyez-moi la liste des incidents###listing_incidents
+Puis-je avoir ma liste des incidents ouverts ?###listing_incidents
+pouvez-vous avoir votre liste d'incidents ouverts ?###listing_incidents
+Peux-tu me donner les informations sur un incident ?###get_info_incident
+pouvez-vous me donner des informations sur un incident?###get_info_incident
+pouvez-vous me parler d'un incident?###get_info_incident
+pouvez-vous me dire quelque chose sur l'incident?###get_info_incident
+ouaip###yes
+ouais###yes
+Je souhaiterais fermer un ticket###close_ticket
+je voudrais fermer un ticket###close_ticket
+je veux fermer un ticket###close_ticket
+tu es réelle ou pas###are_you_real
+es-tu réel ou pas ?###are_you_real
+es-tu une vraie personne ou pas###are_you_real
+je suis trop fâchée###i_am_angry
+je suis trop en colère###i_am_angry
+je suis tellement fâché###i_am_angry
+Puis-je obtenir le nombre de jours de congés restants###get_leave_balance
+puis-je obtenir le nombre de jours de vacances restants ?###get_leave_balance
+puis-je avoir le nombre de jours de vacances restant ?###get_leave_balance
+je suis fâchée###i_am_angry
+je suis contrarié à ce sujet###i_am_angry
+je suis en colère###i_am_angry
+je suis faché###i_am_angry
+merci de répondre###i_have_a_question
+merci d'avoir répondu###i_have_a_question
+merci pour la réponse###i_have_a_question
+merci pour votre réponse###i_have_a_question
+merci beaucoup pour votre réponse###i_have_a_question
+merci de répondre###i_have_a_question
+c'est accompli###it_is_done
+c'est fini###it_is_done
+t'es un chat bot toi###are_you_real
+Donne moi le lien vers mon dashboard###get_link_dashboard
+Je veux mettre à jour le statut du ticket en###update_ticket
+je veux mettre à jour le statut d'un ticket###update_ticket
+je veux mettre à jour le statut du ticket###update_ticket
+je veux mettre à jour le statut du ticket pour###update_ticket
+je veux changer le statut de ce ticket###update_ticket
+Je veux ajouter ajouter un commentaire à l'incident###anotate_ticket
+je voudrais ajouter un commentaire à l'incident###anotate_ticket
+je veux ajouter un commentaire à l'incident###anotate_ticket
+t'es un bot###are_you_real
+tu me manquais###say_i_miss_you
+tu m'as manqué###say_i_miss_you
+tu me manques###say_i_miss_you
+es-tu une vraie personne###are_you_real
+es-tu une personne réelle?###are_you_real
+tu es un robot toi###are_you_real
+J'ai terminé###it_is_done
+j'ai terminé###it_is_done
+ouais###yes
+ouais###yes
+J'aimerais avoir des infos sur la sortie###get_info_activity
+je voudrais connaitre la sortie###get_info_activity
+je voudrais savoir pour la sortie###get_info_activity
+je suis très fatiguée###i_am_tired
+je suis vraiment fatigué###i_am_tired
+je suis très fatigué###i_am_tired
+je suis fatigué###i_am_tired
+je suis tellement fatigué###i_am_tired
+Peux tu me donner la date de la sortie ?###get_info_activity
+dis moi la date de sortie?###get_info_activity
+pouvez-vous me donner la date de sortie?###get_info_activity
+J'ai besoin de voir mon solde de congés###get_leave_balance
+j'ai besoin de voir mon solde de congés###get_leave_balance
+je suis en colère###i_am_angry
+Peux tu me donner les informations d'horaire de la sortie ?###get_info_activity
+pouvez-vous me donner le calendrier?###get_info_activity
+dites-moi le calendrier?###get_info_activity
+pouvez-vous me donner les horaires?###get_info_activity
+pouvez-vous me donner des informations sur les horaires?###get_info_activity
+où tu vis###where_do_you_live
+Envoie-moi le lien vers le dashboard###get_link_dashboard
+envoie moi le lien vers le tableau de bord###get_link_dashboard
+donne moi le lien du tableau de bord###get_link_dashboard
+dans quelle ville habites-tu###where_do_you_live
+dans quelle ville tu habites###where_do_you_live
+je voudrais que tu me répondes###i_have_a_question
+je veux que tu me répondes###i_have_a_question
+j'aimerais que vous répondiez à ma question###i_have_a_question
+j'aimerais que tu me répondes###i_have_a_question
+quelles origines as-tu###where_are_your_from
+quelle est ton origine?###where_are_your_from
+quelles sont tes origines ?###where_are_your_from
+quelles étaient vos origines ?###where_are_your_from
+dans quel pays tu habites###where_do_you_live
+tu vis dans quel pays?###where_do_you_live
+dans quel pays vis tu?###where_do_you_live
+dis-moi dans quel pays tu vis ?###where_do_you_live
+dans quel pays vis-tu?###where_do_you_live
+tu me manques vraiment###say_i_miss_you
+tu me manques###say_i_miss_you
+tu me manques, chérie###say_i_miss_you
+tu me manques beaucoup###say_i_miss_you
+d'où es-tu###where_are_your_from
+d'où êtes-vous###where_are_your_from
+je suis fâché###i_am_angry
+je suis en colère###i_am_angry
+je suis faché###i_am_angry
+d'où tu viens###where_are_your_from
+d'où viens-tu?###where_are_your_from
+Je veux changer le statut d'un ticket###update_ticket
+je veux changer le statut d'un ticket###update_ticket
+je veux changer le statut du ticket###update_ticket
+fachée###i_am_angry
+fâché###i_am_angry
+ouai###yes
+ouais###yes
+je l'ai terminé###it_is_done
+j'ai terminé la phrase###it_is_done
+Je veux avoir mon solde de congés###get_leave_balance
+je veux avoir mon solde de congés###get_leave_balance
+J'aimerais avoir la liste des incidents###listing_incidents
+je voudrais voir la liste des incidents###listing_incidents
+je voudrais une liste d'incidents###listing_incidents
+je voudrais avoir la liste des incidents###listing_incidents
+qu'est-ce que tu me manques###say_i_miss_you
+est-ce que tu me manques?###say_i_miss_you
+qu'est-ce que tu me manques?###say_i_miss_you
+Mets à jour le statut du ticket indident###update_ticket
+laissez-moi savoir le statut du billet indépendant###update_ticket
+tu peux ajouter une pièce jointe à un ticket incident###anotate_ticket
+vous pouvez ajouter une pièce jointe à un ticket d'incident###anotate_ticket
+vous pouvez ajouter un ticket joint###anotate_ticket
+vous pouvez ajouter une pièce jointe au ticket d'incident###anotate_ticket
+Peux tu me donner la date prévue d'une activité entreprise ?###get_info_activity
+pouvez-vous me donner la date prévue de l'activité?###get_info_activity
+dites-moi la date prévue d'une activité?###get_info_activity
+pouvez-vous me donner la date prévue pour une activité?###get_info_activity
+pouvez-vous me donner la date prévue d'une activité?###get_info_activity
+tu me manques déjà###say_i_miss_you
+tu me manques déjà###say_i_miss_you
+Je souhaiterais avoir des infos sur l'incident###get_info_incident
+je voudrais savoir sur l'incident###get_info_incident
+je veux en savoir plus sur cet incident###get_info_incident
+je voudrais avoir des informations sur l'incident###get_info_incident
+j'aimerais avoir plus de détails sur l'incident###get_info_incident
+tu es d'où###where_are_your_from
+d'où viens-tu?###where_are_your_from
+je voudrais ajouter une pièce jointe au ticket###anotate_ticket
+je souhaite ajouter une pièce jointe au ticket###anotate_ticket
+je souhaite joindre une pièce jointe au ticket###anotate_ticket
+donne-moi une réponse à ma question###i_have_a_question
+donne moi une reponse a ma question###i_have_a_question
+merci de me donner la reponse a ma question###i_have_a_question
+j'ai combien de congés restants###get_leave_balance
+combien de vacances me reste-t-il ?###get_leave_balance
+réponds à la question###i_have_a_question
+où est-ce que tu vis###where_do_you_live
+ta ville###where_do_you_live
+ta ville###where_do_you_live
+J'aimerais ajouter un commentaire et une pièce jointe à l'incident###anotate_ticket
+je voudrais ajouter un commentaire et une pièce jointe à l'incident###anotate_ticket
+je suis trop fatiguée###i_am_tired
+je suis fatigué###i_am_tired
+je suis trop fatigué###i_am_tired
+Informations du ticket###get_info_incident
+obtenir des informations sur les billets###get_info_incident
+Peux-tu mettre à jour le statut d'un ticket ?###update_ticket
+pouvez-vous mettre à jour le statut d'un ticket ?###update_ticket
+tu es un vrai humain###are_you_real
+Je veux avoir la liste incidents###listing_incidents
+je veux la liste des incidents###listing_incidents
+je voudrais avoir une liste d'incidents###listing_incidents
+je veux avoir une liste des incidents###listing_incidents
+je voudrais avoir la liste des incidents###listing_incidents
+je suis tellement fatigué###i_am_tired
+je suis si fatigué###i_am_tired
+je suis épuisé###i_am_tired
+je suis fatigué###i_am_tired
+je suis tellement fatigué###i_am_tired
+je suis furieuse###i_am_angry
+je suis furieux###i_am_angry
+je suis en colère###i_am_angry
+je suis faché###i_am_angry
+J'aimerais avoir des informations de sortie de l'activité ?###get_info_activity
+je souhaite avoir les informations de sortie de l'activité ?###get_info_activity
+vous souhaitez des informations de sortie sur une activité ?###get_info_activity
+Quels sont les incidents ouverts ?###listing_incidents
+qu'est-ce qu'un incident ouvert ?###listing_incidents
+quelles sont tes origines###where_are_your_from
+quel est ton parcours ?###where_are_your_from
+quelles sont tes origines?###where_are_your_from
+Dis-moi quel est mon solde de congés###get_leave_balance
+dites-moi quel est mon solde de congés###get_leave_balance
+je suis vraiment fatigué###i_am_tired
+je suis très fatigué###i_am_tired
+je suis fatigué###i_am_tired
+je suis tellement fatigué###i_am_tired
+quelle ville tu habites###where_do_you_live
+où habites-tu?###where_do_you_live
+où tu habites###where_do_you_live
+pas toute de suite###i_am_busy
+pas tout de suite###i_am_busy
+tu m'as manqué###say_i_miss_you
+tu m'as manqué###say_i_miss_you
+tu me manques###say_i_miss_you
+tu habites où###where_do_you_live
+tu me manques trop###say_i_miss_you
+J'ai besoin d'ajouter une PJ dans l'incident###anotate_ticket
+je dois inclure un pj dans l'incident###anotate_ticket
+je dois ajouter un pj à l'incident###anotate_ticket
+Je suis surchargé maintenant###i_am_busy
+je suis un peu dépassé###i_am_busy
+je suis tellement dépassé###i_am_busy
+je suis dépassé###i_am_busy
+je suis maintenant surchargé###i_am_busy
+je suis bourré maintenant###i_am_busy
+je suis surchargé maintenant###i_am_busy
+Comment je peux accéder au dashboard ?###get_link_dashboard
+comment accéder au tableau de bord ?###get_link_dashboard
+comment accéder à mon tableau de bord ?###get_link_dashboard
+comment accéder à un tableau de bord ?###get_link_dashboard
+c'est fait###it_is_done
+je suis épuisé###i_am_tired
+je suis épuisé###i_am_tired
+tu me manques beaucoup###say_i_miss_you
+tu me manques beaucoup###say_i_miss_you
+tu me manques tellement###say_i_miss_you
+tu me manques énormément###say_i_miss_you
+Je ne peux pas accéder à une application web###problem_access_application
+je ne peux pas accéder à une application web###problem_access_application
+je suis crevé###i_am_tired
+je suis fatigué###i_am_tired
+réponds###i_have_a_question
+répondre###i_have_a_question
+Peux tu me donner le lien vers le dashboard ?###get_link_dashboard
+pouvez-vous me donner un lien vers le tableau de bord?###get_link_dashboard
+montrez-moi le lien vers le tableau de bord ?###get_link_dashboard
+pouvez-vous me donner le lien vers le tableau de bord?###get_link_dashboard
+tu es réelle ou non###are_you_real
+es-tu réel ou pas ?###are_you_real
+Je veux avoir des informations d'horaire d'une sortie entreprise###get_info_activity
+je veux avoir un horaire pour une sortie d'entreprise###get_info_activity
+je souhaite connaître les horaires d'une sortie d'entreprise###get_info_activity
+je souhaite avoir des informations sur les horaires d'une visite d'entreprise###get_info_activity
+je veux avoir des informations sur les horaires d'un voyage d'entreprise###get_info_activity
+je souhaite avoir des informations sur les horaires d'un voyage d'entreprise###get_info_activity
+je souhaite avoir des informations sur les horaires d'une sortie d'entreprise###get_info_activity
+je veux des informations sur les horaires d'un voyage d'entreprise###get_info_activity
+je veux connaître le programme d'un voyage d'entreprise###get_info_activity
+tu me manques énormement###say_i_miss_you
+tu me manques tellement###say_i_miss_you
+tu me manques beaucoup###say_i_miss_you
+C'est complété###it_is_done
+c'est terminé###it_is_done
+ouaiii###yes
+ouais###yes
+wé###yes
+J'ai besoin du lien du dashboard###get_link_dashboard
+j'ai besoin du lien vers le tableau de bord###get_link_dashboard
+j'ai besoin du lien du tableau de bord###get_link_dashboard
